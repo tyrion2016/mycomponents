@@ -1,0 +1,17 @@
+.wrapper
+{
+  min-height: 100vh;
+  position: relative;
+  padding-bottom: 50px;
+  background-color: red;
+}
+
+.footer
+{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 50px;
+  width: 100vw;
+  background-color: blue;
+}
